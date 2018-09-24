@@ -1,0 +1,25 @@
+{
+  "name": "@sadava/eventlistener",
+  "version": "0.1.0",
+  "description": "Basic EventListener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S.",
+  "license": "SEE LICENSE IN LICENSE",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SADAVA/EventListener.git"
+  },
+  "keywords": [
+    "EventListener"
+  ],
+  "bugs": {
+    "url": "https://github.com/SADAVA/EventListener/issues"
+  },
+  "homepage": "https://github.com/SADAVA/EventListener#readme"
+}
